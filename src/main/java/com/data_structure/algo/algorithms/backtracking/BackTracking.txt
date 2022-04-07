@@ -1,0 +1,12 @@
+1)Choice
+2)Constraint
+3)Goal
+
+Draw Tree
+Mostly we will use recurssion to solve such problems
+
+
+AllPossiblePathCountIn_MxN_Matrix, AllPathFromTopLeftToBottomRightIn_MxN_Matrix, RatInAMaze
+AllPermutationOfArray(String, Integer)
+AllPossibleParentheses
+AllPossibleSubSet, AllPossibleSum
